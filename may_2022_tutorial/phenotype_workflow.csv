@@ -1,0 +1,8 @@
+,,CD57,CD45,CD11B,SMA,CD16,ECAD,FOXP3
+all,Other Immune cells,anypos,anypos,anypos,,anypos,,anypos
+all,ASMA+ cells,,,,pos,,,
+all,Tumor,,,,,,pos,
+Other Immune cells,Myeloid,,,pos,,,,
+Other Immune cells,NK cells,pos,,,,,,
+Other Immune cells,Neutrophils,,,,,pos,,
+Other Immune cells,Treg,,,,,,,pos
